@@ -80,24 +80,11 @@ The model is evaluated using a suite of visualizations to ensure reliability:
 
 Confusion Matrix: Visualizes misclassifications across classes.
 
-<img width="3000" height="2400" alt="2_confusion_matrix" src="https://github.com/user-attachments/assets/698adef3-4eaa-404d-87e6-99abf1194dbe" />
-
-
-
-
-
 
 ROC/AUC Curves: Measures the model's ability to distinguish between classes.
 
 
-<img width="3000" height="2400" alt="4_roc_egrisi" src="https://github.com/user-attachments/assets/e9ec3214-5e9a-411a-aec8-a1d62674c1fb" />
-
-
-
 Loss & Accuracy Curves: Tracks training stability over epochs.
-
-<img width="4200" height="1500" alt="5_egitim_gecmisi" src="https://github.com/user-attachments/assets/ef485c5d-5240-401e-ab76-6a5f35bbc6ab" />
-
 
 
 
