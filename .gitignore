@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+
+pharma_dataset/
+*.h5
+
+.DS_Store
