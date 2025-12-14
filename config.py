@@ -1,0 +1,4 @@
+IMG_SIZE = (224, 224)
+BATCH_SIZE = 32
+LR = 1e-4
+EPOCHS = 10
